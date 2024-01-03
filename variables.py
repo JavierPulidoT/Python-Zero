@@ -4,11 +4,11 @@ c = a + b
 x = True   #boolean
 print(c)
 
-#Definiendo variable con camelCase
+#Definiendo variable con camelCase.
 nombreCompleto = "Javier Pulido"
 
 
-#Definiendo variable con snake_case... recomendado para python
+#Definiendo variable con snake_case... recomendado para python.
 nombre_completo_1 = "Javier Pulido"
 
 #Concatenar com +
