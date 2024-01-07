@@ -1,7 +1,7 @@
 ingreso_mensual = 81000
 gasto_mensual = 80000
 
-#if anidados y elif
+#if anidados y elif (else if)
 
 if ingreso_mensual > 10000:
     if ingreso_mensual - gasto_mensual < 0:
