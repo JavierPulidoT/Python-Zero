@@ -1,4 +1,4 @@
-#METODOS
+#METODOS STRING
 #DATO.metodo()
 #********************************************
 #DIR es una funcion de pyton > ver que se puede hacer con ese dato"objeto"
