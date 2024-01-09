@@ -57,3 +57,12 @@ print(listaOrden2)
 #***********
 #Con DIR , podemos ver que podemos hacer con cada metodo
 #***********
+
+#Index
+#Verificando si un elemento se encuentra en lista
+listaOrden3 = list([0,1,2,3,4,5,6,7,8])
+elemento_encontrado = listaOrden3.index(4)
+print(elemento_encontrado)
+
+#Las tuplas y conjuntos son inmutables , no se puede modificar orden de los elelemtos , asi como lo hacen las Listas
+#Tuplas solo podemos buscar elementos y usar el Index
