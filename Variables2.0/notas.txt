@@ -1,0 +1,1 @@
+#No podemos crear tuplas, diccionarios, vacios... al menos que usemos la funcion (tuple, dicts ,...)
