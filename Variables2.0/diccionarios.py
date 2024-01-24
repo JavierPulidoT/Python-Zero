@@ -17,4 +17,7 @@ diccionario = dict.fromkeys("ABCDE")
 
 #Creando diccionarios con fromkeys(), cambiando el valor por defecto a "no se"
 diccionario = dict.fromkeys(["nombre","apellido"],"No se")
+
+
+
 print(diccionario)
