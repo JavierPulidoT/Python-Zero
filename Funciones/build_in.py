@@ -10,3 +10,18 @@ print(numero_mas_alto)
 
 numero_mas_bajo = min(numeros)
 print(numero_mas_bajo)
+
+#Redondeando a 3 decimales
+
+numero = round(12.31456842,3)
+print(numero)
+
+#retorna false -> 0, vacio, False , ninguno
+
+resultado_bool = bool(None) #cadena vacia, None,
+print(resultado_bool)
+
+#All
+
+resultado_all = all(123)
+print(All)
