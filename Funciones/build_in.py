@@ -24,4 +24,4 @@ print(resultado_bool)
 #All
 
 resultado_all = all(123)
-print(All)
+print(resultado_all)
